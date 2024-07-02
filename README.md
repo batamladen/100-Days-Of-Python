@@ -12,7 +12,7 @@ The repository is organized by day. Each folder corresponds to a specific day an
 
 ## Progress
 
-- [x] Day 1: Intro to Python
+- [x] Day 1: Random Brand Name Generator
 - [x] Day 2: Tip Calculator
 - [x] Day 3: Treasure Hunt
 - [ ] Day 4: 
