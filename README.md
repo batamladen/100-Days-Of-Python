@@ -1,5 +1,5 @@
-## 100 Days of Code - Python
-### Overview
+# 100 Days of Code - Python
+## Overview
 Welcome to my 100 Days of Code challenge! This repository documents my journey as I commit to coding in Python for 100 consecutive days. Each day, I will post my progress, including the goal of the specific day as well as the code of the project.
 
 ## Goals
@@ -10,10 +10,13 @@ Welcome to my 100 Days of Code challenge! This repository documents my journey a
 ## Structure
 The repository is organized by day. Each folder corresponds to a specific day and contains all the code and resources related to that day's challenge.
 
-## ## Daily Log
+## Progress
 
-| Day | Topic / Project | Description |
-|-----|-----------------|-------------|
-| 1   | Intro to Python | Learned the basics of Python, including syntax and variables. |
-| 2   | Data Structures | Explored lists, tuples, and dictionaries in Python. |
-| 3   | Functions       | Wrote and used functions to organize code. |
+- [x] Day 1: Intro to Python
+- [x] Day 2: Tip Calculator
+- [x] Day 3: Treasure Hunt
+- [ ] Day 4: 
+- [ ] Day 5: 
+- [ ] Day 6: 
+- [ ] Day 7: 
+...
