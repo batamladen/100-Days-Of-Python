@@ -1,6 +1,7 @@
 # 100 Days of Code - Python
 ## Overview
 Welcome to my 100 Days of Code challenge! This repository documents my journey as I commit to coding in Python for 100 consecutive days. Each day, I will post my progress, including the goal of the specific day as well as the code of the project.
+
 Hopefully this repo is of use to someone else as well.
 
 ## Goals
