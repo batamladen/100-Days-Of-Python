@@ -4,8 +4,8 @@ Welcome to my 100 Days of Code challenge! This repository documents my journey a
 
 ## Goals
 •Improve my Python programming skills.
-•Document my progress and share it with the community.
-•Build a useful daily habbit for the summer.
+*•Document my progress and share it with the community.
+*•Build a useful daily habbit for the summer.
 
 ## Structure
 The repository is organized by day. Each folder corresponds to a specific day and contains all the code and resources related to that day's challenge.
