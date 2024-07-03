@@ -17,8 +17,9 @@ The repository is organized by day. Each folder corresponds to a specific day an
 - [x] Day 1: Random Brand Name Generator
 - [x] Day 2: Tip Calculator
 - [x] Day 3: Treasure Hunt
-- [ ] Day 4: 
+- [x] Day 4: 
 - [ ] Day 5: 
 - [ ] Day 6: 
 - [ ] Day 7: 
 ...
+[Day 1](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day1)
