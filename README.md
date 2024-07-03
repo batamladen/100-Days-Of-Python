@@ -14,7 +14,7 @@ The repository is organized by day. Each folder corresponds to a specific day an
 
 ## Progress
 
-- [x] Day 1: Random Brand Name Generator
+- [x] [Day 1](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day1): Random Brand Name Generator
 - [x] Day 2: Tip Calculator
 - [x] Day 3: Treasure Hunt
 - [x] Day 4: 
@@ -22,4 +22,4 @@ The repository is organized by day. Each folder corresponds to a specific day an
 - [ ] Day 6: 
 - [ ] Day 7: 
 ...
-[Day 1](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day1)
+
