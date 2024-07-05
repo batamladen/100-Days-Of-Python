@@ -1,6 +1,6 @@
 import random
 
-print("Welcome to the PyPassword Generator!")
+print("Welcome to the Password Generator!")
 
 letters_number = int(input("What length do you want your password to be?: "))
 symbols_number = int(input("How many symbols would you like in your password?: "))
@@ -14,14 +14,11 @@ symbols = ['!', '@', '#', '%', '^', '&', '*', '(', ')',
 
 numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
 
-
+#add upercase
 def password_strength():
 
     if letters_number <= 5:
         print("Password Strength: Weak")
-
-    if letters_number > 5:
-        print("Password Strength: Medium")
 
     if letters_number > 5  and symbols_number < 1 and numbers_number > 0:
         print("Password Strength: Medium")
@@ -56,6 +53,7 @@ if numbers_number > letters_number:
     print("Error: Amount of desired numbers greather than password length")
 if numbers_number > (letters_number - symbols_number):
     print("Error: Desired password length: ", letters_number, ", amount of desired symbols and numbers:", (symbols_number + numbers_number))
+#add "very strong" if user wants uppercase leeters with the symbols and numbers
 
 password_strength()
 
