@@ -17,9 +17,9 @@ The repository is organized by day. Each folder corresponds to a specific day an
 - [x] [Day 1](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day1): Random Brand Name Generator
 - [x] [Day 2](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day2): Tip Calculator
 - [x] [Day 3](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day3): Treasure Hunt
-- [x] [Day 4](): Rock, Paper, Scissors
-- [ ] Day 5: 
-- [ ] Day 6: 
-- [ ] Day 7: 
+- [x] [Day 4](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day4): Rock, Paper, Scissors
+- [ ] [Day 5](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day5): Password Generator
+- [ ] [Day 6](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day6): Reeborg's World
+- [ ] [Day 7](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day7): Hangman
 ...
 
