@@ -21,7 +21,7 @@ The repository is organized by day. Each folder corresponds to a specific day an
 - [x] [Day 5](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day5): Password Generator
 - [x] [Day 6](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day6): Reeborg's World
 - [x] [Day 7](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day7): Hangman
-- [ ] [Day 8](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day8): Cesar Chiper
+- [x] [Day 8](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day8): Cesar Chiper
 - [ ] [Day 9]
 - [ ] [Day 10]
       
