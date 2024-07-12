@@ -18,7 +18,7 @@ def blackjack_game():
         player_sum = sum(player_cards)
         cpu_sum = sum(cpu_cards)
         print(f"Your hand is: {player_cards}, a total of {player_sum}")
-        print(f"Comp hand is: {player_cards}, a total of {player_sum}")
+        print(f"Comp hand is: {cpu_cards}, a total of {cpu_sum}")
 
         if sum(cpu_cards) > 21:
             print("The comp got a burst you win!")
