@@ -1,5 +1,5 @@
 # Leap Year
-![dos](https://github.com/user-attachments/assets/fffff9cd-6300-492c-9911-653a971d3b67)
+![uno](https://github.com/user-attachments/assets/b4753713-9386-4559-a4f3-f661ff80cad9)
 
 
 # Instructions
