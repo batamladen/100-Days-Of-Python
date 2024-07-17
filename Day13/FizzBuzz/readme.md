@@ -1,4 +1,7 @@
 # FizzBuzz
+![tres](https://github.com/user-attachments/assets/2b0ec408-63b0-4102-98e5-a476136febe1)
+
+
 ## Instructions
 The code needs to print the solution to the FizzBuzz game.
 Your program should print each number from 1 to 100 in turn.
@@ -8,4 +11,3 @@ Your program should print each number from 1 to 100 in turn.
 * And if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it should print "FizzBuzz"
 
 
-![tres](https://github.com/user-attachments/assets/2b0ec408-63b0-4102-98e5-a476136febe1)
