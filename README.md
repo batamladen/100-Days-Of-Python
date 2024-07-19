@@ -26,6 +26,8 @@ The repository is organized by day. Each folder corresponds to a specific day an
 - [x] [Day 10](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day10): Continuous Calculator
 - [x] [Day 11](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day11): BlackJack Game
 - [x] [Day 12](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day12): Guess The Number
+- [x] [Day 13](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day13): FizzBuzz
+- [x] [Day 14](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day14): Higher Lower
 
 
 ...
