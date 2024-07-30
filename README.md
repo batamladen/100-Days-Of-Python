@@ -29,6 +29,9 @@ The repository is organized by day. Each folder corresponds to a specific day an
 - [x] [Day 13](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day13): FizzBuzz
 - [x] [Day 14](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day14): Higher Lower
 - [x] [Day 15](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day15): Coffee Machine
+- [x] [Day 16](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day16): Coffee Machine
+- [x] [Day 17](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day17): Quiz
+- [x] [Day 18](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day18): Circles in Pattern
 
 
 ...
