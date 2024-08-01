@@ -32,6 +32,7 @@ The repository is organized by day. Each folder corresponds to a specific day an
 - [x] [Day 16](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day16): Coffee Machine - OOP
 - [x] [Day 17](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day17): Quiz
 - [x] [Day 18](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day18): Hirst Painting
+- [x] [Day 19](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day19): Turtle Race
 
 
 
