@@ -1,2 +1,2 @@
 # Turtle Race
-![day19](https://github.com/user-attachments/assets/53cf9837-ced7-4d1d-8fed-84b4188aab60)
+![day19 speedup](https://github.com/user-attachments/assets/2a34de7b-634e-4637-b726-397bf840d717)
