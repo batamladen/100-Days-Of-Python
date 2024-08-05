@@ -12,6 +12,9 @@ Hopefully this repo is of use to someone else as well.
 ## Structure
 The repository is organized by day. Each folder corresponds to a specific day and contains all the code and resources related to that day's challenge.
 
+## Pull
+Feel free to send pull requests, I am aware that the projects can be done better, shorther, added a few more functions. Send your pull requests, i love them!
+
 ## Progress
 
 - [x] [Day 1](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day1): Random Brand Name Generator
