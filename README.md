@@ -17,8 +17,8 @@ Feel free to send pull requests, I am aware that the projects can be done better
 
 ## Progress
 
-- [x] [Day 1](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day1): Random Brand Name Generator
-- [x] [Day 2](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day2): Tip Calculator
+- [x] [Day 1](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day01): Random Brand Name Generator
+- [x] [Day 2](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day02): Tip Calculator
 - [x] [Day 3](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day3): Treasure Hunt
 - [x] [Day 4](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day4): Rock, Paper, Scissors
 - [x] [Day 5](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day5): Password Generator
