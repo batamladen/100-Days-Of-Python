@@ -3,9 +3,9 @@
 
 ## Instructions
 * Create ball class
- * Create ball bounce function
+  * Create ball bounce function
 * Create paddle class
 * Create scoreboard class
- * Create scoreboard update function
+  * Create scoreboard update function
 * Create main file
- * Create ball border movement logic
+  * Create ball border movement logic
