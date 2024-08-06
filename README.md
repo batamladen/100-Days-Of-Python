@@ -37,7 +37,9 @@ Feel free to send pull requests, I am aware that the projects can be done better
 - [x] [Day 18](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day18): Hirst Painting
 - [x] [Day 19](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day19): Turtle Race
 - [x] [Day 20](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day20): Snake game: part 1
-- [x] [Day 20](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day21): Snake game: part 2
+- [x] [Day 21](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day21): Snake game: part 2
+- [x] [Day 22](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day22): Ping Pong
+
 
 
 
