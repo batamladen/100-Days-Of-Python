@@ -39,6 +39,10 @@ Feel free to send pull requests, I am aware that the projects can be done better
 - [x] [Day 20](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day20): Snake game: part 1
 - [x] [Day 21](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day21): Snake game: part 2
 - [x] [Day 22](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day22): Ping Pong
+- [x] [Day 23](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day23): Street Cross Game
+- [ ] [Day 24](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day24): 
+- [x] [Day 25](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day25): US State Guesser
+
 
 
 
