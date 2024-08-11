@@ -42,6 +42,7 @@ Feel free to send pull requests, I am aware that the projects can be done better
 - [x] [Day 23](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day23): Street Cross Game
 - [ ] [Day 24](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day24): 
 - [x] [Day 25](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day25): US State Guesser
+- [x] [Day 26](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day26): Phonetic Alphabet
 
 
 
