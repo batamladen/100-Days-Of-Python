@@ -1,3 +1,2 @@
 # Day 27 - Miles to Kilometers Converter
-
-![day227](https://github.com/user-attachments/assets/446a14b4-9699-49cb-b1c3-0b86f4a7dd78)
+![day 27](https://github.com/user-attachments/assets/c61e31ac-a883-4e55-b489-5aba5e8bb180)
