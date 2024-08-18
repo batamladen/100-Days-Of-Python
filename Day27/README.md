@@ -1,3 +1,3 @@
 # Day 27 - Miles to Kilometers Converter
 
-<gif src="![day 27](https://github.com/user-attachments/assets/19c61aa0-2c92-4c16-a23d-724632efa13c)" width="200" height="400" />
+![day277](https://github.com/user-attachments/assets/cb8849f0-c49f-4f2f-a5a0-480e2b777c06)
