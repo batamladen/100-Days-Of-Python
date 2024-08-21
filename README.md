@@ -44,6 +44,7 @@ Feel free to send pull requests, I am aware that the projects can be done better
 - [x] [Day 25](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day25): US State Guesser
 - [x] [Day 26](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day26): Phonetic Alphabet
 - [x] [Day 27](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day27): Miles to KM
+- [x] [Day 28](https://github.com/batamladen/100-Days-Of-Python/tree/main/Day27): Pomorodo
 
 
 
